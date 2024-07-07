@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muraliakshaya&show_icons=true&locale=en&layout=compact" alt="muraliakshaya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muraliakshaya&show_icons=true&locale=en" alt="muraliakshaya" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=muraliakshaya&show_icons=true&locale=en" alt="muraliakshaya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muraliakshaya&" alt="muraliakshaya" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muraliakshaya&" alt="muraliakshaya" /></p>

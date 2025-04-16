@@ -14,8 +14,8 @@
 
 <h2 align="left"> Technologies I'm Focusing on: <img align="center" src="https://media.giphy.com/media/UWyolgnwKnr8mfWZOY/giphy.gif" width="30"></h2>
 <ul>
- <li><strong>Python</strong> <img alt="Python" title="python" height="18" src="https://www.flaticon.com/free-icons/python"  /></li>
- <li><strong>React</strong> <img align="center" alt="react" title="react" width="20" src="https://www.flaticon.com/free-icons/react"/></li>
+ <li><strong>Python</strong> <img alt="Python" title="python" height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  /></li>
+ <li><strong>React</strong> <img align="center" alt="react" title="react" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/></li>
  <li><strong>Node.js and Express.js</strong> <img align="center" alt="Node.js" title="Node.js" width="20" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></li>
 </ul> 
 

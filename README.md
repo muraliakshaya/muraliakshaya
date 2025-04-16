@@ -14,15 +14,15 @@
 
 <h2 align="left"> Technologies I'm Focusing on: <img align="center" src="https://media.giphy.com/media/UWyolgnwKnr8mfWZOY/giphy.gif" width="30"></h2>
 <ul>
- <li><strong>Python</strong> <img alt="Flutter" title="Flutter" height="18" src="https://www.flaticon.com/free-icons/python"  /></li>
- <li><strong>React</strong> <img align="center" alt="iOS" title="iOS" width="20" src="https://www.flaticon.com/free-icons/react"/></li>
+ <li><strong>Python</strong> <img alt="Python" title="python" height="18" src="https://www.flaticon.com/free-icons/python"  /></li>
+ <li><strong>React</strong> <img align="center" alt="react" title="react" width="20" src="https://www.flaticon.com/free-icons/react"/></li>
  <li><strong>Node.js and Express.js</strong> <img align="center" alt="Node.js" title="Node.js" width="20" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></li>
 </ul> 
 
 ## Personal Development Goals: <img src="https://media.giphy.com/media/rxzIRXC6RxNFRFOkJG/giphy.gif" width="20">
-- **Python Mastery:** Expand my skills as a Kotlin developer.
-- **Comprehensive Backend Knowledge:** Acquiring a profound understanding of backend development.
-- **Continued Learning:** Completing all the Udemy courses I've enrolled in to further expand my skill set.
+- **Python Mastery:** Expand my skills as a Python developer.
+- **Comprehensive Full stack Knowledge:** Acquiring a profound understanding of frontend,backend development & Databases.
+- **Continued Learning:** 
   * [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) &nbsp;  <img align="center" height="20" src="https://progress-bar.xyz/18" alt="Progress bar" />
   * [System Design Basics](https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&si=axunI9-38mFZbxZW) &nbsp;  <img align="center" height="20" src="https://progress-bar.xyz/23" alt="Progress bar" />
   * [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&t=1s) &nbsp;  <img align="center" height="20" src="https://progress-bar.xyz/30" alt="Progress bar" />

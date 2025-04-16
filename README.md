@@ -1,6 +1,6 @@
 <img src="https://github.com/muraliakshaya/muraliakshaya/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png" style="width: 100%; height: auto; max-width: 100px" />
 <h1 align="center">Hi 👋, I'm Akshaya</h1>
-<h3 align="center">A passionate software engineer from India with 3.5 years of experience in application support & development.</h3>
+<h3 align="center">A passionate software engineer from India with around 4 years of experience in application support & development.</h3>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/girl-playing-video-game-while-wearing-headphones_931878-20280.jpg">
 
